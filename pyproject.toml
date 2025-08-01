@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "zenofai"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
-    {name = "Anuj Sadani", email = "your-email@example.com"}
+    {name = "Anuj Sadani", email = "anuj.sadani3@gmail.com"}
 ]
 description = "The Zen of GenAI, printed on import"
-readme = "README.md"
+readme = "readme.md"
 license = "MIT"
 keywords = ["AI", "Python", "Zen", "package"]
 classifiers = [
